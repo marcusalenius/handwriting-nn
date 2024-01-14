@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------
 # Contains code to recognize the digits in 28x28 pixel images, located in the
-# ./images subdirectory.
+# ./images subdirectory, and write the results to a CSV file.
 # 
 # Marcus Alenius, 2024
 # -----------------------------------------------------------------------------
